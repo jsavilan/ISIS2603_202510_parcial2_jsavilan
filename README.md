@@ -1,5 +1,8 @@
 # ISIS2603202510ParcialPractico2
 
+## Nombre : Juan Sebastián Ávila Nivia
+## Codigo : 202320465
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.5.
 
 ## Development server
